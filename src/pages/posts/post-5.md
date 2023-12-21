@@ -6,7 +6,7 @@ description: "うぇいいいいい"
 image:
   url: "https://docs.astro.build/default-og-image.png"
   alt: "惑星と星のイラストの中に「astro」という単語があります。"
-pubDate: 2023-12-21
+pubDate: 2023-12-21 23:56:00
 tags: ["失敗"]
 ---
 そうめん！！！！
